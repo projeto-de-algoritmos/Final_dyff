@@ -1,1 +1,1 @@
-g++ main.cpp -o dyff
+g++ main.cpp -o dyff -g
