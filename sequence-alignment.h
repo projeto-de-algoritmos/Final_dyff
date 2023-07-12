@@ -116,13 +116,9 @@ private:
             }
         }
 
-        string x_final, y_final;
         for (i = id; i <= size; i++)
-            x_final += (char)x_tmp[i];
+            final_x += (char)x_tmp[i];
         for (i = id; i <= size; i++)
-            y_final += (char)y_tmp[i];
-
-        final_x = x_final;
-        final_y = y_final;
+            final_y += (char)y_tmp[i];
     }
 };
