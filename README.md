@@ -4,6 +4,11 @@
 
 **Conteúdo da Disciplina**: Programação dinâmica
 
+## Apresentação
+
+Você pode assistir o vídeo pelo [YouTube](https://youtu.be/zwCFsz5G4FI) ou pelo arquivo no 
+repositório em [pa-final.mp4](pa-final.mp4).
+
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
