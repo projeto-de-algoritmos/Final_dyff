@@ -7,7 +7,7 @@ using std::endl;
 
 int main(int argc, char** argv) {
     if (argc != 3) {
-        std::printf("Usage: %s \"string1\" \"string2\"", argv[0]);
+        std::printf("Usage: %s \"string1\" \"string2\"\n", argv[0]);
         exit(1);
     }
 

@@ -13,6 +13,10 @@
 Dyff é um programa de linha de comando que compara duas strings usando o 
 algoritmo de Alinhamento de Sequência.
 
+Você pode mudar os custos em [main.cpp](main.cpp).
+
+Use apenas caracteres ASCII.
+
 ## Screenshots
 
 <img src="./docs/screenshot.png" width="400" alt="Screenshot de uma execução.">
