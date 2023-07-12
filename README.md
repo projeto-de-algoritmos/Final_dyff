@@ -16,16 +16,25 @@ Descreva os objetivos do seu projeto e como ele funciona.
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx
+**Linguagem**: C++
 
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+É só compilar com
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+```sh
+# certifique-se que o arquivo tem permissão de execução com
+chmod +x build.sh
+# compile
+./build.sh
+```
 
+Execute com 
+
+```sh
+./dyff "string1" "string2"
+```
 
 
 
