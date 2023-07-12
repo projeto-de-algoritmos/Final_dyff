@@ -10,15 +10,18 @@
 | 16/0149410  |  Yudi Yamane |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Dyff é um programa de linha de comando que compara duas strings usando o 
+algoritmo de Alinhamento de Sequência.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+<img src="./docs/screenshot.png" width="400" alt="Screenshot de uma execução.">
+
 
 ## Instalação 
 **Linguagem**: C++
 
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+Você precisa do g++ na versão 11 instaldo em sua máquina.
 
 ## Uso 
 É só compilar com
